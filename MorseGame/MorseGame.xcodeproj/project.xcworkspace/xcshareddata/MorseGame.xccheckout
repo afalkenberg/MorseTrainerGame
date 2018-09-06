@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>38501DF8-30A0-4487-96F2-63A257DD12C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MorseGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DD21D7498C84C1F7C31479EBB294C92E9C8B5631</key>
+		<string>ssh://lisa-Laptop-old.local/~/06MorseProject/morseProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MorseGame/MorseGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DD21D7498C84C1F7C31479EBB294C92E9C8B5631</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://lisa-Laptop-old.local/~/06MorseProject/morseProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DD21D7498C84C1F7C31479EBB294C92E9C8B5631</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD21D7498C84C1F7C31479EBB294C92E9C8B5631</string>
+			<key>IDESourceControlWCCName</key>
+			<string>morseProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,500 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E106B0E61A9C3657003CE3EE /* AudioClass.m in Sources */ = {isa = PBXBuildFile; fileRef = E106B0E21A9C3657003CE3EE /* AudioClass.m */; };
+		E106B0E71A9C3657003CE3EE /* LearningAlgorithm.m in Sources */ = {isa = PBXBuildFile; fileRef = E106B0E31A9C3657003CE3EE /* LearningAlgorithm.m */; };
+		E106B0E81A9C3657003CE3EE /* Letter.m in Sources */ = {isa = PBXBuildFile; fileRef = E106B0E41A9C3657003CE3EE /* Letter.m */; };
+		E106B0E91A9C3657003CE3EE /* LetterCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = E106B0E51A9C3657003CE3EE /* LetterCollection.m */; };
+		E11976BC1A9EEFEA0046B375 /* BackGround.png in Resources */ = {isa = PBXBuildFile; fileRef = E11976BB1A9EEFEA0046B375 /* BackGround.png */; };
+		E11976BE1AA0333D0046B375 /* Button76.png in Resources */ = {isa = PBXBuildFile; fileRef = E11976BD1AA0333D0046B375 /* Button76.png */; };
+		E14D05A61AA062B100382240 /* SecondUIController.m in Sources */ = {isa = PBXBuildFile; fileRef = E14D05A51AA062B100382240 /* SecondUIController.m */; };
+		E15F78091A78BE9E00953A6F /* MorseSelectorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E15F78081A78BE9E00953A6F /* MorseSelectorViewController.m */; };
+		E17DFF9B1A8F1AC700AFC152 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E17DFF991A8F1AC700AFC152 /* LaunchScreen.xib */; };
+		E196E0781AACFC060024131C /* Button_1.png in Resources */ = {isa = PBXBuildFile; fileRef = E196E0771AACFC060024131C /* Button_1.png */; };
+		E196E07A1AACFD970024131C /* Button_2.png in Resources */ = {isa = PBXBuildFile; fileRef = E196E0791AACFD970024131C /* Button_2.png */; };
+		E196E0801AAD05D90024131C /* UIResult.m in Sources */ = {isa = PBXBuildFile; fileRef = E196E07F1AAD05D90024131C /* UIResult.m */; };
+		E1C410C11A98705400A31BCD /* AFBarGraph.m in Sources */ = {isa = PBXBuildFile; fileRef = E1C410C01A98705400A31BCD /* AFBarGraph.m */; };
+		E1DD059D1A78954C009E7F45 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E1DD059C1A78954C009E7F45 /* main.m */; };
+		E1DD05A01A78954C009E7F45 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E1DD059F1A78954C009E7F45 /* AppDelegate.m */; };
+		E1DD05A61A78954C009E7F45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1DD05A41A78954C009E7F45 /* Main.storyboard */; };
+		E1DD05A81A78954C009E7F45 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1DD05A71A78954C009E7F45 /* Images.xcassets */; };
+		E1DD05B71A78954D009E7F45 /* MorseGameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E1DD05B61A78954D009E7F45 /* MorseGameTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E1DD05B11A78954D009E7F45 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E1DD058F1A78954C009E7F45 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E1DD05961A78954C009E7F45;
+			remoteInfo = MorseGame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E106B0E21A9C3657003CE3EE /* AudioClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioClass.m; sourceTree = "<group>"; };
+		E106B0E31A9C3657003CE3EE /* LearningAlgorithm.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LearningAlgorithm.m; sourceTree = "<group>"; };
+		E106B0E41A9C3657003CE3EE /* Letter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Letter.m; sourceTree = "<group>"; };
+		E106B0E51A9C3657003CE3EE /* LetterCollection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LetterCollection.m; sourceTree = "<group>"; };
+		E106B0EA1A9C3665003CE3EE /* AudioClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AudioClass.h; sourceTree = "<group>"; };
+		E106B0EB1A9C3665003CE3EE /* LearningAlgorithm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LearningAlgorithm.h; sourceTree = "<group>"; };
+		E106B0EC1A9C3665003CE3EE /* Letter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Letter.h; sourceTree = "<group>"; };
+		E106B0ED1A9C3665003CE3EE /* LetterCollection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LetterCollection.h; sourceTree = "<group>"; };
+		E11976BB1A9EEFEA0046B375 /* BackGround.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackGround.png; sourceTree = "<group>"; };
+		E11976BD1AA0333D0046B375 /* Button76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button76.png; sourceTree = "<group>"; };
+		E14D05A41AA062B100382240 /* SecondUIController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondUIController.h; sourceTree = "<group>"; };
+		E14D05A51AA062B100382240 /* SecondUIController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondUIController.m; sourceTree = "<group>"; };
+		E15F78071A78BE9E00953A6F /* MorseSelectorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MorseSelectorViewController.h; sourceTree = "<group>"; };
+		E15F78081A78BE9E00953A6F /* MorseSelectorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MorseSelectorViewController.m; sourceTree = "<group>"; };
+		E17DFF9A1A8F1AC700AFC152 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		E196E0771AACFC060024131C /* Button_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_1.png; sourceTree = "<group>"; };
+		E196E0791AACFD970024131C /* Button_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_2.png; sourceTree = "<group>"; };
+		E196E07E1AAD05D90024131C /* UIResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIResult.h; sourceTree = "<group>"; };
+		E196E07F1AAD05D90024131C /* UIResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIResult.m; sourceTree = "<group>"; };
+		E1C410BF1A98705400A31BCD /* AFBarGraph.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFBarGraph.h; sourceTree = "<group>"; };
+		E1C410C01A98705400A31BCD /* AFBarGraph.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFBarGraph.m; sourceTree = "<group>"; };
+		E1DD05971A78954C009E7F45 /* MorseGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MorseGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1DD059B1A78954C009E7F45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1DD059C1A78954C009E7F45 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E1DD059E1A78954C009E7F45 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		E1DD059F1A78954C009E7F45 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E1DD05A51A78954C009E7F45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E1DD05A71A78954C009E7F45 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		E1DD05B01A78954D009E7F45 /* MorseGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MorseGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1DD05B51A78954D009E7F45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1DD05B61A78954D009E7F45 /* MorseGameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MorseGameTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E1DD05941A78954C009E7F45 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1DD05AD1A78954D009E7F45 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E1DD058E1A78954C009E7F45 = {
+			isa = PBXGroup;
+			children = (
+				E1DD05991A78954C009E7F45 /* MorseGame */,
+				E1DD05B31A78954D009E7F45 /* MorseGameTests */,
+				E1DD05981A78954C009E7F45 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E1DD05981A78954C009E7F45 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E1DD05971A78954C009E7F45 /* MorseGame.app */,
+				E1DD05B01A78954D009E7F45 /* MorseGameTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E1DD05991A78954C009E7F45 /* MorseGame */ = {
+			isa = PBXGroup;
+			children = (
+				E106B0EA1A9C3665003CE3EE /* AudioClass.h */,
+				E106B0EB1A9C3665003CE3EE /* LearningAlgorithm.h */,
+				E106B0EC1A9C3665003CE3EE /* Letter.h */,
+				E106B0ED1A9C3665003CE3EE /* LetterCollection.h */,
+				E106B0E21A9C3657003CE3EE /* AudioClass.m */,
+				E106B0E31A9C3657003CE3EE /* LearningAlgorithm.m */,
+				E106B0E41A9C3657003CE3EE /* Letter.m */,
+				E106B0E51A9C3657003CE3EE /* LetterCollection.m */,
+				E1C410BF1A98705400A31BCD /* AFBarGraph.h */,
+				E1C410C01A98705400A31BCD /* AFBarGraph.m */,
+				E1DD059E1A78954C009E7F45 /* AppDelegate.h */,
+				E1DD059F1A78954C009E7F45 /* AppDelegate.m */,
+				E1DD05A41A78954C009E7F45 /* Main.storyboard */,
+				E196E0771AACFC060024131C /* Button_1.png */,
+				E196E0791AACFD970024131C /* Button_2.png */,
+				E11976BD1AA0333D0046B375 /* Button76.png */,
+				E11976BB1A9EEFEA0046B375 /* BackGround.png */,
+				E17DFF991A8F1AC700AFC152 /* LaunchScreen.xib */,
+				E15F78071A78BE9E00953A6F /* MorseSelectorViewController.h */,
+				E15F78081A78BE9E00953A6F /* MorseSelectorViewController.m */,
+				E14D05A41AA062B100382240 /* SecondUIController.h */,
+				E14D05A51AA062B100382240 /* SecondUIController.m */,
+				E196E07E1AAD05D90024131C /* UIResult.h */,
+				E196E07F1AAD05D90024131C /* UIResult.m */,
+				E1DD05A71A78954C009E7F45 /* Images.xcassets */,
+				E1DD059A1A78954C009E7F45 /* Supporting Files */,
+			);
+			path = MorseGame;
+			sourceTree = "<group>";
+		};
+		E1DD059A1A78954C009E7F45 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E1DD059B1A78954C009E7F45 /* Info.plist */,
+				E1DD059C1A78954C009E7F45 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E1DD05B31A78954D009E7F45 /* MorseGameTests */ = {
+			isa = PBXGroup;
+			children = (
+				E1DD05B61A78954D009E7F45 /* MorseGameTests.m */,
+				E1DD05B41A78954D009E7F45 /* Supporting Files */,
+			);
+			path = MorseGameTests;
+			sourceTree = "<group>";
+		};
+		E1DD05B41A78954D009E7F45 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E1DD05B51A78954D009E7F45 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E1DD05961A78954C009E7F45 /* MorseGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E1DD05BA1A78954D009E7F45 /* Build configuration list for PBXNativeTarget "MorseGame" */;
+			buildPhases = (
+				E1DD05931A78954C009E7F45 /* Sources */,
+				E1DD05941A78954C009E7F45 /* Frameworks */,
+				E1DD05951A78954C009E7F45 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MorseGame;
+			productName = MorseGame;
+			productReference = E1DD05971A78954C009E7F45 /* MorseGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E1DD05AF1A78954D009E7F45 /* MorseGameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E1DD05BD1A78954D009E7F45 /* Build configuration list for PBXNativeTarget "MorseGameTests" */;
+			buildPhases = (
+				E1DD05AC1A78954D009E7F45 /* Sources */,
+				E1DD05AD1A78954D009E7F45 /* Frameworks */,
+				E1DD05AE1A78954D009E7F45 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E1DD05B21A78954D009E7F45 /* PBXTargetDependency */,
+			);
+			name = MorseGameTests;
+			productName = MorseGameTests;
+			productReference = E1DD05B01A78954D009E7F45 /* MorseGameTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E1DD058F1A78954C009E7F45 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Dr Falkenberg Technology";
+				TargetAttributes = {
+					E1DD05961A78954C009E7F45 = {
+						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = MV9Y46R5Y5;
+					};
+					E1DD05AF1A78954D009E7F45 = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = E1DD05961A78954C009E7F45;
+					};
+				};
+			};
+			buildConfigurationList = E1DD05921A78954C009E7F45 /* Build configuration list for PBXProject "MorseGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E1DD058E1A78954C009E7F45;
+			productRefGroup = E1DD05981A78954C009E7F45 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E1DD05961A78954C009E7F45 /* MorseGame */,
+				E1DD05AF1A78954D009E7F45 /* MorseGameTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E1DD05951A78954C009E7F45 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1DD05A61A78954C009E7F45 /* Main.storyboard in Resources */,
+				E11976BE1AA0333D0046B375 /* Button76.png in Resources */,
+				E17DFF9B1A8F1AC700AFC152 /* LaunchScreen.xib in Resources */,
+				E1DD05A81A78954C009E7F45 /* Images.xcassets in Resources */,
+				E11976BC1A9EEFEA0046B375 /* BackGround.png in Resources */,
+				E196E07A1AACFD970024131C /* Button_2.png in Resources */,
+				E196E0781AACFC060024131C /* Button_1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1DD05AE1A78954D009E7F45 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E1DD05931A78954C009E7F45 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E106B0E91A9C3657003CE3EE /* LetterCollection.m in Sources */,
+				E106B0E71A9C3657003CE3EE /* LearningAlgorithm.m in Sources */,
+				E196E0801AAD05D90024131C /* UIResult.m in Sources */,
+				E1DD05A01A78954C009E7F45 /* AppDelegate.m in Sources */,
+				E106B0E81A9C3657003CE3EE /* Letter.m in Sources */,
+				E1C410C11A98705400A31BCD /* AFBarGraph.m in Sources */,
+				E14D05A61AA062B100382240 /* SecondUIController.m in Sources */,
+				E15F78091A78BE9E00953A6F /* MorseSelectorViewController.m in Sources */,
+				E1DD059D1A78954C009E7F45 /* main.m in Sources */,
+				E106B0E61A9C3657003CE3EE /* AudioClass.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1DD05AC1A78954D009E7F45 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E1DD05B71A78954D009E7F45 /* MorseGameTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E1DD05B21A78954D009E7F45 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E1DD05961A78954C009E7F45 /* MorseGame */;
+			targetProxy = E1DD05B11A78954D009E7F45 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E17DFF991A8F1AC700AFC152 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E17DFF9A1A8F1AC700AFC152 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		E1DD05A41A78954C009E7F45 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E1DD05A51A78954C009E7F45 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E1DD05B81A78954D009E7F45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E1DD05B91A78954D009E7F45 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E1DD05BB1A78954D009E7F45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = MorseGame/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		E1DD05BC1A78954D009E7F45 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = MorseGame/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		E1DD05BE1A78954D009E7F45 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = MorseGameTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MorseGame.app/MorseGame";
+			};
+			name = Debug;
+		};
+		E1DD05BF1A78954D009E7F45 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = MorseGameTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MorseGame.app/MorseGame";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E1DD05921A78954C009E7F45 /* Build configuration list for PBXProject "MorseGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1DD05B81A78954D009E7F45 /* Debug */,
+				E1DD05B91A78954D009E7F45 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E1DD05BA1A78954D009E7F45 /* Build configuration list for PBXNativeTarget "MorseGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1DD05BB1A78954D009E7F45 /* Debug */,
+				E1DD05BC1A78954D009E7F45 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E1DD05BD1A78954D009E7F45 /* Build configuration list for PBXNativeTarget "MorseGameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E1DD05BE1A78954D009E7F45 /* Debug */,
+				E1DD05BF1A78954D009E7F45 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E1DD058F1A78954C009E7F45 /* Project object */;
+}
